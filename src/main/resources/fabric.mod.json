@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "farmeraddons",
+  "version": "${version}",
+  "name": "FarmerAddons",
+  "description": "FarmerAddons ALPHA By Gwisp!",
+  "authors": ["gwisp"],
+  "contact": {},
+  "license": "CC0-1.0",
+  "icon": "assets/farmeraddons/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "gwisp.flight.farmeraddons.client.NetherwartHighlighterClient"
+    ]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "minecraft": "${minecraft_version}",
+    "java": ">=21"
+  }
+}

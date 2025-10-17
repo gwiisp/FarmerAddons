@@ -1,0 +1,11 @@
+/gamerule randomTickSpeed 100
+/gamerule randomTickSpeed 1000
+/gamerule randomTickSpeed 10000
+/playsound minecraft:entity.arrow.hit_player
+/fill 221 64 4 227 64 26 minecraft:soul_sand
+/fill 221 65 4 227 65 26 minecraft:nether_wart
+/fill 221 65 4 227 65 26 air
+/fill 221 65 4 227 65 26 minecraft:nether_wart
+/fill 209 64 0 215 64 19 minecraft:soul_sand
+/fill 209 65 0 215 65 19 minecraft:nether_wart
+/staffonline
