@@ -6,7 +6,7 @@ The mod has custom keybinds as of now _(Can be changed in Minecraft Settings)_ *
 
 I plan to add a whole UI later with toggles and settings be patient. You can still use the mod as is while I add more features! :)
 
-**Please not we are not affiliated with LoverCraft LLC**
+**Please note we are not affiliated with LoverCraft LLC**
 
 Get the mod here!
 https://modrinth.com/mod/farmeraddons
